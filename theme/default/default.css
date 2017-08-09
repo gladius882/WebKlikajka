@@ -12,31 +12,68 @@ body {
 header {
 	width: 100vw;
 	height: 64px;
-	background-color: grey; 
+	background-color: #666666;
+	border-bottom: 1px solid grey;
+}
+
+nav {
+	float: left;
+}
+.header-nav-button {
+	width: 54px;
+	height: 54px;
+
+	background-color: #CCCCCC;
+	
+	margin-top: 5px;
+	display: inline-block;
+}
+.header-nav-button:first-child {
+	margin-left: 4px;
+}
+
+#header-nick {
+	font-size: 40px;
+	font-weight: bold;
+
+	margin-right: 4px;
+
+	float: right;
 }
 
 main {
-
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #game-button {
 	width: 500px;
 	height: 300px;
 
+	font-size: 48px;
+
 	border: 0px;
 	border-radius: 7px;
-	box-shadow: 0px 0px 7px 1px rgba(255, 255, 255, 0.8);
-	margin: 90px auto 0px auto;
+	box-shadow: 0px 0px 7px 3px rgba(255, 255, 255, 0.5);
+	margin-top: 90px;
 
 	cursor: pointer;
+	transition: 1s;
+}
+#game-button:hover {
+	margin-top: 92px;
 }
 
 footer {
-	width: 100vw;
+	width: 100%;
 
 	text-align: center;
-	background: #DDDDDD;
+	background: #CCCCCC;
 
 	position: fixed;
 	bottom: 0px;
+}
+footer a {
+	color: #E34234; /* cynober */
 }
