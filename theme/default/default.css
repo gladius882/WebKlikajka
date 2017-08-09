@@ -1,0 +1,42 @@
+a, a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+body {
+	background-color: #111111;
+	margin: 0px;
+	font-family: 'Comic Sans MS';
+}
+
+header {
+	width: 100vw;
+	height: 64px;
+	background-color: grey; 
+}
+
+main {
+
+}
+
+#game-button {
+	width: 500px;
+	height: 300px;
+
+	border: 0px;
+	border-radius: 7px;
+	box-shadow: 0px 0px 7px 1px rgba(255, 255, 255, 0.8);
+	margin: 90px auto 0px auto;
+
+	cursor: pointer;
+}
+
+footer {
+	width: 100vw;
+
+	text-align: center;
+	background: #DDDDDD;
+
+	position: fixed;
+	bottom: 0px;
+}
