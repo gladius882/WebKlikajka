@@ -1615,3 +1615,21 @@ INFO - 2017-08-09 20:34:53 --> Controller Class Initialized
 INFO - 2017-08-09 20:34:53 --> File loaded: C:\xampp\htdocs\WebKlikajka\application\views\local/local_header.php
 INFO - 2017-08-09 20:34:53 --> Final output sent to browser
 DEBUG - 2017-08-09 20:34:53 --> Total execution time: 0.0401
+INFO - 2017-08-09 20:54:48 --> Config Class Initialized
+INFO - 2017-08-09 20:54:48 --> Hooks Class Initialized
+DEBUG - 2017-08-09 20:54:49 --> UTF-8 Support Enabled
+INFO - 2017-08-09 20:54:49 --> Utf8 Class Initialized
+INFO - 2017-08-09 20:54:49 --> URI Class Initialized
+DEBUG - 2017-08-09 20:54:49 --> No URI present. Default controller set.
+INFO - 2017-08-09 20:54:49 --> Router Class Initialized
+INFO - 2017-08-09 20:54:49 --> Output Class Initialized
+INFO - 2017-08-09 20:54:49 --> Security Class Initialized
+DEBUG - 2017-08-09 20:54:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-08-09 20:54:49 --> Input Class Initialized
+INFO - 2017-08-09 20:54:49 --> Language Class Initialized
+INFO - 2017-08-09 20:54:49 --> Loader Class Initialized
+INFO - 2017-08-09 20:54:49 --> Helper loaded: url_helper
+INFO - 2017-08-09 20:54:49 --> Controller Class Initialized
+INFO - 2017-08-09 20:54:50 --> File loaded: C:\xampp\htdocs\WebKlikajka\application\views\local/local_header.php
+INFO - 2017-08-09 20:54:50 --> Final output sent to browser
+DEBUG - 2017-08-09 20:54:50 --> Total execution time: 2.0429
