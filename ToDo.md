@@ -10,6 +10,6 @@
 |
 |	ToDo:
 |	* switch between options via keyboard
-|	*  
+|	* drop-down nav menu
 |
 |---------------------------------------------------------

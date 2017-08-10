@@ -12,18 +12,22 @@
 		
 		<nav>
 			<a href="#" class="header-nav-button">1</a>
-			<a href="#" class="header-nav-button">2</a>
-			<a href="#" class="header-nav-button">3</a>
-			<a href="#" class="header-nav-button">4</a>
-			<a href="#" class="header-nav-button">5</a>
 		</nav>
 		
 		<div id="header-nick">
 			gladius882
 		</div>
 
-		<div>
-			Czas: 10
+		<div id="header-bar">
+			<span class="header-time">
+				Czas:
+				<span id="game-time">10</span>
+			</span>
+
+			<span class="header-clicks">
+				Kliknięcia:
+				<span class="game-clicks">0</span>
+			</span>
 		</div>
 
 	</header>

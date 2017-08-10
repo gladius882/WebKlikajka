@@ -32,6 +32,11 @@ nav {
 	margin-left: 4px;
 }
 
+#header-bar {
+	width: 500px;
+	margin: 0px auto 0px auto;
+}
+
 #header-nick {
 	font-size: 40px;
 	font-weight: bold;
@@ -55,14 +60,18 @@ main {
 
 	border: 0px;
 	border-radius: 7px;
-	box-shadow: 0px 0px 7px 3px rgba(255, 255, 255, 0.5);
-	margin-top: 90px;
+	margin-top: 120px;
+	vertical-align: middle;
 
 	cursor: pointer;
-	transition: 1s;
+	display: inline-block;
+	transition: 0.5s;
 }
 #game-button:hover {
-	margin-top: 92px;
+	box-shadow: 0px 0px 7px 3px rgba(255, 255, 255, 0.5);
+}
+#game-button:active {
+	margin-top: 123px;
 }
 
 footer {
